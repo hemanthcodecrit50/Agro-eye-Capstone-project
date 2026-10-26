@@ -1,0 +1,10 @@
+__pycache__/
+datasets/
+# weights/
+# runs/
+*venv/
+# checkpoints/
+
+
+intermediary_temps/
+
